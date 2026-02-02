@@ -35,21 +35,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ashutosh9503&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ashutosh9503&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400&v=2"
     height="165"
   />
   <img
-    src="https://streak-stats.demolab.com?user=ashutosh9503&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ashutosh9503&theme=github-dark&hide_border=true&v=2"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh9503&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh9503&layout=compact&theme=github_dark&hide_border=true&v=2"
     height="140"
   />
 </p>
+
 
 
 
